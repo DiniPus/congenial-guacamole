@@ -1,35 +1,3 @@
-# congenial-guacamole
-Wisnu Page
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@DiniPus 
-rahmatagungj
-/
-static-love-page
-Public
-Fork your own copy of rahmatagungj/static-love-page
-Code
-Issues
-Pull requests
-4
-Actions
-Projects
-Security
-Insights
-static-love-page/index.html
-@rahmatagungj
-rahmatagungj Add files via upload
-Latest commit 58225c4 on Mar 6, 2022
- History
- 1 contributor
-133 lines (128 sloc)  3.88 KB
-
 <html>
   <meta charset="UTF-8" /><meta
     content="width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5"
@@ -163,18 +131,3 @@ Latest commit 58225c4 on Mar 6, 2022
     </script>
   </body>
 </html>
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-static-love-page/index.html at main · rahmatagungj/static-love-page
